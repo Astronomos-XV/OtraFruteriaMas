@@ -1,0 +1,1 @@
+ID: 45115, Nombre: Pera, Peso: 12.5 kg, Precio: $6.5
